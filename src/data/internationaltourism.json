@@ -1,0 +1,1136 @@
+﻿[
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "12832774"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "14155691"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "13967372"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "15619527"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "15523998"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "16495090"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "17826482"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "19361310"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "19420966"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "20437188"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "21475854"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "26401442"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "30213164"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "31113262"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "28588780"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "31106950"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "28951870"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "31677132"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "32783110"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "35106084"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "37680050"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "41345020"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "43313516"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "45877750"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "46207932"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "12413700"
+    },
+    {
+        "Entity": "Africa",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "11643321"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "101567080"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "109251144"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "114045180"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "119572030"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "121239190"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "130507890"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "125493330"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "121307816"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "115345330"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "130644650"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "137964740"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "144649500"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "151932460"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "152365360"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "147419840"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "157585920"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "166080160"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "172825810"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "178661580"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "194032800"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "203407280"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "213916770"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "230214880"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "241393220"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "246915950"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "70916950"
+    },
+    {
+        "Entity": "Americas",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "84260584"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "114378800"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "125587384"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "130557200"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "131372620"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "148024540"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "168370610"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "175153070"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "189317710"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "175612770"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "218112210"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "235269810"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "250130820"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "270264200"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "267929740"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "264840400"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "293890240"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "313200000"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "332489800"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "352570940"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "374966240"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "397531230"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "419012100"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "449892580"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "478418100"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "489532830"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "47816400"
+    },
+    {
+        "Entity": "East Asia and the Pacific",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "18434410"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "299340380"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "381872800"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "432696580"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "449979100"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "463903740"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "480935520"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "464764100"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "469437060"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "477238400"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "527873760"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "567127100"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "587205440"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "622667800"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "628069060"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "597125200"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "617293400"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "656676000"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "691416260"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "713429950"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "714251840"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "732376960"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "753796800"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "803218400"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "844652100"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "878253500"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "325707740"
+    },
+    {
+        "Entity": "Europe",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "364372900"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "10119565"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "9920710"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "10553928"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "11949030"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "12279016"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "16939676"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "18354500"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "20863248"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "21081484"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "24797046"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "25142114"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "26511154"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "29504518"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "28246012"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "30365486"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "33532906"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "36278990"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "37982252"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "40624988"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "49206770"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "52290240"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "50938644"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "51522252"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "58545164"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "62174336"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "13762700"
+    },
+    {
+        "Entity": "Middle East",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "19730016"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "10150115"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "8435827"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "9140661"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "10631038"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "11328200"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "11891885"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "12927437"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "12763316"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "13306832"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "15823626"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "20570262"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "16337972"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "21838666"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "22162066"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "22400594"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "24320432"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "26266600"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "26102602"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "26108500"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "32897598"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "36021100"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "34523500"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "36002600"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "39575120"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "39507744"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "16906670"
+    },
+    {
+        "Entity": "Not classified",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "20858964"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "1995",
+        "Arrivals": "4779760"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "1996",
+        "Arrivals": "5089573"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "1997",
+        "Arrivals": "5426766"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "1998",
+        "Arrivals": "5627012"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "1999",
+        "Arrivals": "6155573"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2000",
+        "Arrivals": "8098234"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2001",
+        "Arrivals": "8455692"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2002",
+        "Arrivals": "9381315"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2003",
+        "Arrivals": "9831660"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2004",
+        "Arrivals": "11306415"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2005",
+        "Arrivals": "10928877"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2006",
+        "Arrivals": "12311288"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2007",
+        "Arrivals": "14351938"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2008",
+        "Arrivals": "14844838"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2009",
+        "Arrivals": "15666971"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2010",
+        "Arrivals": "19199696"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2011",
+        "Arrivals": "22542138"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2012",
+        "Arrivals": "21702706"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2013",
+        "Arrivals": "21828834"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2014",
+        "Arrivals": "26171518"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2015",
+        "Arrivals": "27129520"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2016",
+        "Arrivals": "29420132"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2017",
+        "Arrivals": "33860428"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2018",
+        "Arrivals": "35020750"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2019",
+        "Arrivals": "37785040"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2020",
+        "Arrivals": "8315520.5"
+    },
+    {
+        "Entity": "South Asia",
+        "Code": "",
+        "Year": "2021",
+        "Arrivals": "9107196"
+    }
+]

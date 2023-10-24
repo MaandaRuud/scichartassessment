@@ -1,0 +1,35 @@
+{
+  "name": "scichart",
+  "version": "1.0.0",
+  "description": "SciChart Utilization Assessment 2023 Oct 24",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "test": "\"echo \\\"Error: No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaandaRuud/scichartassessment.git"
+  },
+  "keywords": [
+    "SciChart",
+    "Assessment"
+  ],
+  "author": "Maanda Matshili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaandaRuud/scichartassessment/issues"
+  },
+  "homepage": "https://github.com/MaandaRuud/scichartassessment#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "scichart": "^3.2.491"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
